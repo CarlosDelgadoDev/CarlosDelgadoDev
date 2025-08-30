@@ -9,33 +9,28 @@ Me especializo en crear **aplicaciones web modernas, responsivas** y **fáciles 
 ## 🚀 Tecnologías y Herramientas
 
 ### **Frontend**
-Construyo **interfaces web dinámicas** e **interactivas** utilizando:
 
-- ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  
-- ![Vue.js](https://img.shields.io/badge/-Vue.js-20232A?logo=vue.js&logoColor=4FC08D)  
-- ![Angular](https://img.shields.io/badge/-Angular-20232A?logo=angular&logoColor=DD0031)  
-- ![Flutter](https://img.shields.io/badge/-Flutter-20232A?logo=flutter&logoColor=02569B)  
+| ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  | ![Vue.js](https://img.shields.io/badge/-Vue.js-20232A?logo=vue.js&logoColor=4FC08D) | ![Angular](https://img.shields.io/badge/-Angular-20232A?logo=angular&logoColor=DD0031) | ![Flutter](https://img.shields.io/badge/-Flutter-20232A?logo=flutter&logoColor=02569B) |
+|---------------------------|----------------------------|-----------------------------------|-------------------------------------|
+| **React**                 | **Vue.js**                 | **Angular**                      | **Flutter**                        |
 
 ### **Backend**
-Para el desarrollo de **backend**, trabajo con tecnologías como:
 
-- ![Node.js](https://img.shields.io/badge/-Node.js-20232A?logo=node.js&logoColor=339933)  
-- ![NestJS](https://img.shields.io/badge/-NestJS-20232A?logo=nestjs&logoColor=E0234E)  
-- ![Java](https://img.shields.io/badge/-Java-20232A?logo=java&logoColor=007396)  
-- ![Python](https://img.shields.io/badge/-Python-20232A?logo=python&logoColor=3776AB)  
+| ![Node.js](https://img.shields.io/badge/-Node.js-20232A?logo=node.js&logoColor=339933) | ![NestJS](https://img.shields.io/badge/-NestJS-20232A?logo=nestjs&logoColor=E0234E)  | ![Java](https://img.shields.io/badge/-Java-20232A?logo=java&logoColor=007396) |
+|----------------------------------|------------------------------------------|-----------------------------------|
+| **Node.js**                      | **NestJS**                              | **Java**                          |
 
 ### **Machine Learning**
-Para el aprendizaje automático, utilizo:
 
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-20232A?logo=tensorflow&logoColor=FF6F00)  
+| ![TensorFlow](https://img.shields.io/badge/-TensorFlow-20232A?logo=tensorflow&logoColor=FF6F00) |
+|-----------------------------------------------|
+| **TensorFlow**                               |
 
 ### **Herramientas**
-Uso herramientas modernas para el desarrollo y despliegue:
 
-- ![AWS](https://img.shields.io/badge/-AWS-20232A?logo=amazonaws&logoColor=232F3E)  
-- ![Docker](https://img.shields.io/badge/-Docker-20232A?logo=docker&logoColor=2496ED)  
-- ![Figma](https://img.shields.io/badge/-Figma-20232A?logo=figma&logoColor=F24E1E)  
-- ![GitHub](https://img.shields.io/badge/-GitHub-20232A?logo=github&logoColor=white)  
+| ![AWS](https://img.shields.io/badge/-AWS-20232A?logo=amazonaws&logoColor=232F3E) | ![Docker](https://img.shields.io/badge/-Docker-20232A?logo=docker&logoColor=2496ED)  | ![Figma](https://img.shields.io/badge/-Figma-20232A?logo=figma&logoColor=F24E1E)  | ![GitHub](https://img.shields.io/badge/-GitHub-20232A?logo=github&logoColor=white) |
+|---------------------------------|-------------------------------------|----------------------------------|---------------------------------|
+| **AWS**                         | **Docker**                         | **Figma**                       | **GitHub**                     |
 
 ---
 
@@ -45,10 +40,14 @@ Uso herramientas modernas para el desarrollo y despliegue:
 ---
 
 ## 💬 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-20232A?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/carlosdelgadodev)  
-[![Twitter](https://img.shields.io/badge/-Twitter-20232A?logo=twitter&logoColor=1DA1F2)](https://twitter.com/carlosdelgadodev)  
-[![Email](https://img.shields.io/badge/-Email-20232A?logo=gmail&logoColor=D14836)](mailto:jd1005337@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-20232A?logo=whatsapp&logoColor=25D366)](https://wa.me/59176073386)
+
+| [![LinkedIn](https://img.shields.io/badge/-LinkedIn-20232A?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/carlosdelgadodev)  | [![Twitter](https://img.shields.io/badge/-Twitter-20232A?logo=twitter&logoColor=1DA1F2)](https://twitter.com/carlosdelgadodev)  | [![Email](https://img.shields.io/badge/-Email-20232A?logo=gmail&logoColor=D14836)](mailto:jd1005337@gmail.com)  |
+|-------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| **LinkedIn**                                    | **Twitter**                                     | **Email**                                    |
+
+| [![WhatsApp](https://img.shields.io/badge/-WhatsApp-20232A?logo=whatsapp&logoColor=25D366)](https://wa.me/59176073386) |
+|---------------------------------------------------------|
+| **WhatsApp**                                           |
 
 ---
 
